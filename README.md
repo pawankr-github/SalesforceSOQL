@@ -1,5 +1,8 @@
 # SalesforceSOQL
 This Repository is for Soql Practice
+
+# Below are the list of Question That are There in Repo
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
